@@ -79,3 +79,10 @@ body{
 .container.active #qr-code{
     opacity: 1;
 }
+
+@media screen and (max-width: 430px) {
+    .container{
+
+        max-width: 330px;
+    }
+}
