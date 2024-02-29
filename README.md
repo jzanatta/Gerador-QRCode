@@ -1,1 +1,1 @@
-Gerador de QR Code, link: https://geradorqrcode-joaozanatta.netlify.app/
+Gerador de QR Code, link: https://joaozanatta-geradorqrcode.netlify.app
